@@ -4,7 +4,7 @@ Purines and pyrimidines are fundamental components of nucleotides in DNA and RNA
 
 ## Authors
 
-- [@Bioinformatician-dev](https://github.com/Bioinformatician-dev)
+- [@Salma](https://github.com/Bioinformatician-dev)
 
 
 ## Steps
