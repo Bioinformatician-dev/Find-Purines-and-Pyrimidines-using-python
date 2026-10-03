@@ -10,10 +10,10 @@ DNA contains four major nitrogenous bases:
 
 | Base             | Type       |
 | ---------------- | ---------- |
-| **A — Adenine**  | Purine     |
-| **G — Guanine**  | Purine     |
-| **C — Cytosine** | Pyrimidine |
-| **T — Thymine**  | Pyrimidine |
+| **A - Adenine**  | Purine     |
+| **G - Guanine**  | Purine     |
+| **C - Cytosine** | Pyrimidine |
+| **T - Thymine**  | Pyrimidine |
 
 Purines consist of **Adenine (A)** and **Guanine (G)**, while pyrimidines consist of **Cytosine (C)** and **Thymine (T)**.
 
